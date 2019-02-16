@@ -1,6 +1,6 @@
 owner=361038644024180737
-prefix=B
-game=Break | Bplay
+prefix=$
+game=Break | $play
 stayinchannel=true
 songinstatus=false
 token=NTQ2Mjg4NjA4Njk3Mzg0OTYw.D0mCqg.Jd8CY6XFwDVP27tBtUpR2-_rJlI
